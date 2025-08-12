@@ -1,6 +1,6 @@
 # ⏳ Loading Spinner
 
-A clean and modern **Loading Spinner** built with **HTML** and **CSS**. This lightweight spinner provides smooth rotation animation to indicate loading or processing states, enhancing user experience on any web interface.
+A clean and modern **Loading Spinner** built with **HTML** and **CSS**. This lightweight spinner provides smooth rotation animation to indicate loading or processing states and enhancing user experience on any web interface.
 
 ---
 
